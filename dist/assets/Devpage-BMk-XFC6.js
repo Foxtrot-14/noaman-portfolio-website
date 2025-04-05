@@ -1,0 +1,1 @@
+import{j as e}from"./index-4wR4RL6x.js";import{d as t}from"./index-CRyj1qBb.js";function o(){return e.jsx(e.Fragment,{children:e.jsx("h1",{className:"font-bold text-4xl p-5 mb-10 rounded-lg bg-black text-[#0F0] font-mono",children:e.jsx(t.Typewriter,{words:["The Engineer's Instinct"],typeSpeed:50})})})}export{o as default};
